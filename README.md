@@ -36,8 +36,8 @@ Follow these steps to run the project locally:
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/rameshwaryadav/your-repo-name.git
-    cd your-repo-name
+    git clone git@github.com:rameshwaryadav/CodeClause-Employee-Attrition-Prediction.git
+    
     ```
 
 2.  **Download the Dataset**
